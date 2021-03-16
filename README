@@ -1,0 +1,19 @@
+
+Paste the list of domains into a file in a directory at the same level
+
+'domain.list'
+
+
+
+Configure the file name in the script
+
+'Domain_MX_record_query'
+-FileConfig
+
+
+
+Run script
+
+'python Domain_MX_record_query.py'
+
+
